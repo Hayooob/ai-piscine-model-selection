@@ -1,0 +1,10 @@
+# virtual environments
+env/
+venv/
+.venv/
+ex00/ex00/
+
+# python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
